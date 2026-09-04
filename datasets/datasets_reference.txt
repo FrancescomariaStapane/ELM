@@ -1,0 +1,10 @@
+letter recognition: https://archive.ics.uci.edu/dataset/59/letter+recognition
+chess king rook vs king: https://archive.ics.uci.edu/dataset/23/chess+king+rook+vs+king
+adult: https://archive.ics.uci.edu/dataset/2/adult
+statlog shuttle: https://archive.ics.uci.edu/dataset/148/statlog+shuttle
+magic gamma telescope: https://archive.ics.uci.edu/dataset/159/magic+gamma+telescope
+mnist: https://github.com/pytorch/vision/blob/main/torchvision/datasets/mnist.py
+superconductivty data: https://archive.ics.uci.edu/dataset/464/superconductivty+data
+nyctaxi: https://www.openml.org/search?type=data&sort=runs&id=42729&status=active
+medical charges: https://www.openml.org/search?type=data&status=active&id=44004
+blog feedback: https://archive.ics.uci.edu/dataset/304/blogfeedback
